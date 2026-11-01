@@ -1,0 +1,21 @@
+{
+  "name": "matchmind-ai",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/johnkambembe/matchmind-ai#readme",
+  "bugs": {
+    "url": "https://github.com/johnkambembe/matchmind-ai/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnkambembe/matchmind-ai.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js",
+    "dev": "nodemon index.js"
+  }
+}
